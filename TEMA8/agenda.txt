@@ -1,0 +1,20 @@
+Nombre: ale
+Apellido: Toti
+Telefono: 12345
+Email: ale@toti.es
+-------------------------------
+Nombre: juanmigue
+Apellido: er
+Telefono: 4568
+Email: erJuanmi@osamo.es
+-------------------------------
+Nombre: Ale
+Apellido: Flores
+Telefono: 123456789
+Email: ElToTi@gmail.es
+-------------------------------
+Nombre: juanmi
+Apellido: gel
+Telefono: 123456789
+Email: Erjuanmi@gel.es
+-------------------------------
